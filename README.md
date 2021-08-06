@@ -5,6 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mfaour34" alt="mfaour34" /></a> </p>
 
+- 🌱 I’m currently learning **Typescript, DynamoDB**
+
+- 💬 Ask me about **NodeJS, express**
+
+- 📫 How to reach me **faour606@gmail.com**
+
+- ⚡ Fun fact **I love cars 🔰**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammed-faour-6167451b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-faour-6167451b0" height="30" width="40" /></a>
