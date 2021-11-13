@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mfaour34" alt="mfaour34" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript, DynamoDB**
+- 🌱 I’m currently learning **Data analytics**
 
-- 💬 Ask me about **NodeJS, express**
+- 💬 Ask me about **NodeJS, express, SQL, socket.io**
 
-- 📫 How to reach me **faour606@gmail.com**
+- 📫 How to reach out to me: **faour606@gmail.com**
 
-- ⚡ Fun fact **I love cars 🔰**
+- ⚡ Fun fact **I am a car enthusiast🔰**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
