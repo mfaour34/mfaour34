@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mfaour34" alt="mfaour34" /></a> </p>
 
-- 💬 Ask me about **NodeJS, express, SQL, socket.io, TS**
+- 💬 Ask me about **NodeJS, express, SQL, socket.io, TypeScript**
 
 - 📫 How to reach out to me: **faour606@gmail.com**
 
