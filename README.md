@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Mohammed 👋</h1>
 
 <p align="center">
-  Backend dev at <a href="https://www.finn.com"><b>FINN</b></a> in Munich 🇩🇪 · I write TypeScript, and I boss around a small army of AI agents 🤖
+  Backend engineer at <a href="https://www.finn.com"><b>FINN</b></a> in Munich 🇩🇪 · I plan carefully, orchestrate AI agents, and review everything before it ships 🚢
 </p>
 
 <p align="center">
@@ -13,11 +13,15 @@
 
 ---
 
-### 🤖 Me + agents
+### 🤖 How I work with agents
 
-- 🎻 I run a **conductor** agent that babysits my other agents and pings me on Slack when they need me
-- 🎫 I hand it a Jira epic, it hands me back merged PRs
-- 🧠 My agents don't forget stuff: context lives in git, not in a 500k-token chat
+Agents write a lot of my code. I'm still the engineer: I own the plan, the review and the result.
+
+- 📝 **Plan first:** PRDs and technical specs drafted with agents, then refined and signed off by me
+- 🎻 **Orchestrate:** a conductor agent runs parallel sessions through a ticket dependency graph
+- 🔍 **Review hard:** every change gets my thorough review before merge. Production-ready or it doesn't ship
+- 🚒 **Firefight:** agents dig through logs, trace the bug and draft the fix, so incidents close faster
+- 🧠 **Remember:** context lives in git, so nothing gets lost between sessions
 
 ### 🛠️ Stuff I made
 
