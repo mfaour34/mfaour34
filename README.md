@@ -6,9 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code">
-  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic">
   <img src="https://img.shields.io/badge/Multi--agent-6D5BFF?style=for-the-badge&logo=robotframework&logoColor=white" alt="Multi-agent">
-  <img src="https://img.shields.io/badge/MCP-1EC8E8?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP">
 </p>
 
 ---
