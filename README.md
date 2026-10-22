@@ -63,7 +63,7 @@ Agents write a lot of my code. I'm still the engineer: I own the plan, the revie
 ### 💬 Say hi
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-faour-6167451b0"><img src="https://skillicons.dev/icons?i=linkedin" width="44" alt="LinkedIn"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/mohammed-faour"><img src="https://skillicons.dev/icons?i=linkedin" width="44" alt="LinkedIn"></a>&nbsp;
   <a href="https://stackoverflow.com/users/13023864"><img src="https://skillicons.dev/icons?i=stackoverflow" width="44" alt="Stack Overflow"></a>&nbsp;
   <a href="mailto:faour606@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="44" alt="Email"></a>
 </p>
